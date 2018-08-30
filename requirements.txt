@@ -1,2 +1,2 @@
-alembic==0.9.1
-appnope==0.1.0
+requests==2.19.1
+lxml==4.2.4
